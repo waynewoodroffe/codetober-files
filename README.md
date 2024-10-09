@@ -27,22 +27,6 @@ This configuration defines the key attributes of the spaceship's engine:
 - **capacity**: Indicates the engine's capacity.
 - **password**: A secure password for engine access.
 
-## Getting Started
-
-To use these configurations, ensure you have Terraform installed and configured on your local machine. Clone this repository and navigate to the directory containing the `aircraft_engine.tf` file.
-
-```bash
-git clone https://github.com/your-username/celestial-odyssey-config.git
-cd celestial-odyssey-config
-```
-
-Run Terraform commands to initialize and apply the configurations:
-
-```bash
-terraform init
-terraform apply
-```
-
 ## Contributing
 
 We welcome contributions to improve and expand the configurations. Feel free to open issues or submit pull requests.
@@ -50,7 +34,3 @@ We welcome contributions to improve and expand the configurations. Feel free to 
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-With this README, anyone accessing the repository will have a clear understanding of its purpose, structure, and how to get started with the Terraform configurations.
