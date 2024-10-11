@@ -1,10 +1,10 @@
-# Celestial Odyssey Terraform Configurations
+# Quantum Seeker Terraform Configurations
 
-Welcome to the Celestial Odyssey Terraform repository! This repository contains the Terraform configurations for the Celestial Odyssey spaceship project, an ambitious mission to explore the outer reaches of the Milky Way.
+Welcome to the Quantum Seeker Terraform repository! This repository contains the Terraform configurations for the Celestial Odyssey spaceship project, an ambitious mission to explore the outer reaches of the Milky Way.
 
 ## Overview
 
-The Celestial Odyssey is a state-of-the-art spaceship designed for deep space exploration. This repository hosts the infrastructure-as-code (IaC) configurations needed to manage various components of the spaceship, including the powerful XJ-9000 engine.
+The Quantum Seeker is a state-of-the-art spaceship designed for deep space exploration. This repository hosts the infrastructure-as-code (IaC) configurations needed to manage various components of the spaceship, including the powerful XJ-9000 engine.
 
 ## Repository Structure
 
